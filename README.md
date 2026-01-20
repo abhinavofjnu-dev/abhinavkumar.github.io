@@ -1,90 +1,113 @@
-# Abhinav Kumar - Academic Portfolio
 
-A modern, responsive academic portfolio website built with HTML, CSS, and JavaScript.
+Abhinav Kumar
 
-## 🚀 Quick Deploy to GitHub Pages
+Development Researcher | Political Economy of Digital Platforms, Labour, and Digital Market Alternatives
+Centre for Informal Sector and Labour Studies, Jawaharlal Nehru University (JNU), New Delhi, India
 
-### Step 1: Create GitHub Repository
+🌐 Website: https://abhinavjnu.github.io
+📧 Email: maurya.abhinava@gmail.com
 
-1. Go to [GitHub](https://github.com) and sign in
-2. Click the **+** icon → **New repository**
-3. Name it: `abhinav-kumar.github.io` (replace with your username)
-   - Or any name like `portfolio` if you prefer
-4. Keep it **Public**
-5. Click **Create repository**
 
-### Step 2: Push Your Code
+---
 
-Open terminal in this folder and run:
+About Me
 
-```bash
-git init
-git add .
-git commit -m "Initial commit - Academic Portfolio"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
-git push -u origin main
-```
+I am a development researcher working on the political economy of digital platforms, with a focus on platform labour, worker resistance, and emerging alternatives to platform monopolies in India. My research examines how platform capitalism restructures markets and work, how workers respond through unionization and collective action, and how communities experiment with non-extractive, community-governed digital market systems.
 
-### Step 3: Enable GitHub Pages
+I have submitted my PhD at Jawaharlal Nehru University, where my doctoral research examined food delivery platforms and labour relations in India, focusing on labour process, control mechanisms, resistance strategies, and unionization among platform workers. My work is grounded in Global South contexts and informed by direct engagement with labour unions and worker collectives in platform-based work.
 
-1. Go to your repository on GitHub
-2. Click **Settings** → **Pages** (in left sidebar)
-3. Under "Source", select **Deploy from a branch**
-4. Select **main** branch and **/ (root)** folder
-5. Click **Save**
+Alongside academic research, I am interested in how informal and community-based digital infrastructures can reclaim digital markets that have been privatized and monopolized by large platform corporations.
 
-### Step 4: Access Your Site
 
-Your site will be live at:
-- `https://YOUR_USERNAME.github.io/` (if repo named `username.github.io`)
-- `https://YOUR_USERNAME.github.io/REPO_NAME/` (for other repo names)
+---
 
-## 📁 Project Structure
+Research Interests
 
-```
-abhinav-portfolio/
-├── index.html      # Main HTML file
-├── style.css       # All styling
-├── script.js       # Interactive features
-└── README.md       # This file
-```
+Political economy of digital platforms and market power
 
-## ✨ Features
+Labour process, control, and worker resistance in platform-mediated work
 
-- Modern, professional academic design
-- Fully responsive (mobile, tablet, desktop)
-- Smooth scroll navigation
-- Animated sections on scroll
-- Interactive skill tags
-- Timeline-based research experience
-- Clean publication cards
+Sustainability of gig and platform-based employment in the Global South
 
-## 🎨 Customization
+Community-governed and non-extractive digital market systems
 
-### Add Profile Photo
+Informal governance, trust, and solidarity-based digital infrastructures
 
-Replace the avatar placeholder in `index.html`:
 
-```html
-<!-- Replace this -->
-<div class="avatar-placeholder">AK</div>
 
-<!-- With this -->
-<img src="your-photo.jpg" alt="Abhinav Kumar" style="width: 100%; height: 100%; object-fit: cover; border-radius: 50%;">
-```
+---
 
-### Change Colors
+Current Work
 
-Edit CSS variables in `style.css`:
+Researcher, Christ (Deemed to be University), Delhi NCR
+ICCSR-funded project on Sustainability of Digital Jobs and Youth Livelihoods in the Gig-Platform Economy in Uttar Pradesh
 
-```css
-:root {
-    --primary: #1e3a5f;      /* Main blue */
-    --accent: #c9a227;       /* Gold accent */
-}
-```
+Ongoing Research
+Community-based digital marketplaces and informal alternatives to platform intermediation, with a case focus on online fragrance communities in India.
 
-## 📧 Contact
 
-Abhinav Kumar - maurya.abhinava@gmail.com
+
+---
+
+Selected Publications
+
+Kumar, Abhinav (2025). Contesting the Platform: Worker Resistance in India’s Food Delivery.
+The Academic – International Journal of Multidisciplinary Research.
+
+Kumar, Abhinav (2024). Sweat, Strain, and Survival: The Hidden Cost of the Gig Economy in India.
+Workers Resistance (AICCTU).
+
+
+
+---
+
+Methods & Tools
+
+Methods
+Digital ethnography · Qualitative interviews · Mixed-methods research · Survey design · Policy analysis · Field-based research
+
+Tools
+Python · R · Atlas.ti · Kobo Toolbox · NSSO & PLFS datasets
+
+
+---
+
+What You’ll Find Here
+
+This GitHub profile is used as a research workspace and public-facing archive, including:
+
+Research notes and project documentation
+
+Data analysis scripts (Python/R)
+
+Drafts and supplementary materials for academic work
+
+Public-facing writing related to platforms, labour, and digital market alternatives
+
+
+
+---
+
+Collaboration & Contact
+
+I am open to collaboration on research related to:
+
+Platform labour and worker organization
+
+Cooperative and solidarity-based digital economies
+
+Informal and community-governed digital infrastructures
+
+Global South perspectives on digital capitalism
+
+
+Feel free to reach out via email or through my website.
+
+
+---
+
+Academic identity (one line)
+
+Researching platform domination, labour resistance, and community-governed alternatives in the digital economy.
+
+
